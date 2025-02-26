@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="bcpkix-jdk18on-177">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../bouncycastle/bcpkix-jdk18on-177.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../bouncycastle/bcprov-jdk18on-177.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
